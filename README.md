@@ -86,8 +86,21 @@ contributes in the increase in monthly churn.
 
 ### 6. Gross Revenue Retention (GRR)
 GRR (~89%) shows loss of revenue due to churn and downgrades exceeding 
-the profits from expansion revenue, indicating retention challenges and 
-gaps in product market fit.
+the profits from expansion revenue, indicates retention challenge and 
+gaps in product market fit. This also shows increase in the reliance on 
+new customer acquisition to sustain overall growth.
+
+---
+
+## Recommendations
+
+- Both NRR (~93%) and GRR (~89%) are below SaaS standard benchmark, indicating gaps in upselling. The company should focus on improving their upgrade/upselling strategies to increase revenue from existing customers. Improving expansion revenue will increase overall profit and reduce reliance on new customer acquisition.
+
+- Lower feature adoption among churned users, with higher support tickets, suggest gaps in product engagement. Improving feature usage, product marketing, and usability could increase feature adoption and help reduce churn.
+
+- While Enterprise plans generate the majority of revenue, increasing adoption of Pro and Basic plans can help expand the customer base. A broader customer base improves long-term revenue stability and creates opportunities for future upgrades into higher tier plans.
+
+- Due to higher churn rate (22%), the company faces retention challenges. Increasing customer retention through improved product experience and proactive customer success efforts can help reduce churn and increase overall revenue growth.
 
 ---
 
