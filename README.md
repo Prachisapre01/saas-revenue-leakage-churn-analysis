@@ -31,6 +31,8 @@ improve user engagement, and optimize revenue growth
 
 This company's database structure includes multiple tables covering 
 accounts, subscriptions, feature usage, churn events and support tickets.
+The dataset used for this analysis:
+https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset
 
 Below is the data model used for analysis:
 
